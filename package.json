@@ -1,0 +1,7 @@
+{
+  "description": "Monorepo of internal projects",
+  "private": true,
+  "scripts": {},
+  "license": "ISC",
+  "packageManager": "pnpm@12.4.1"
+}

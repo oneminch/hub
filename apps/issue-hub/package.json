@@ -1,0 +1,32 @@
+{
+  "name": "issue-hub",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "lint": "eslint .",
+    "typecheck": "nuxt typecheck",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "@iconify-json/lucide": "catalog:",
+    "@iconify-json/simple-icons": "catalog:",
+    "@nuxt/ui": "catalog:",
+    "nuxt": "catalog:",
+    "tailwindcss": "catalog:"
+  },
+  "devDependencies": {
+    "@nuxt/eslint": "catalog:",
+    "@nuxt/test-utils": "catalog:",
+    "eslint": "catalog:",
+    "happy-dom": "catalog:",
+    "typescript": "catalog:",
+    "vitest": "catalog:",
+    "vue-tsc": "catalog:"
+  },
+  "packageManager": "pnpm@11.13.1"
+}

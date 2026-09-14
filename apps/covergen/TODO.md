@@ -1,0 +1,2 @@
+- [ ] Cover image generator for blog posts with programmatic themes
+  - Inspiration: [Coverview](https://coverview.vercel.app/)
